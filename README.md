@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 </p>
   
 [![MLLB's GitHub stats](https://github-readme-stats.vercel.app/api?username=AppDeveloperMLLB)](https://github.com/AppDeveloperMLLB/github-readme-stats)
-  
+[![trophy](https://github-profile-trophy.vercel.app/?username=AppDeveloperMLLB&theme=oldie)](https://github.com/AppDeveloperMLLB/github-profile-trophy)
 <!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie -->
