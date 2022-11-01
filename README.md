@@ -32,3 +32,7 @@ Here are some ideas to get you started:
     <img height="20" src="https://qiita-badge.apiapi.app/s/MLLB/contributions.svg" />
   </a>
 </p>
+  
+[![MLLB's GitHub stats](https://github-readme-stats.vercel.app/api?username=AppDeveloperMLLB)](https://github.com/AppDeveloperMLLB/github-readme-stats)
+  
+<!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie -->
